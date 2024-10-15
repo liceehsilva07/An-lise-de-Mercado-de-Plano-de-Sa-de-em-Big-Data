@@ -2,14 +2,6 @@ Análise de Dados com Power BI
 
 Este repositório contém uma análise de dados realizada utilizando o Power BI, uma ferramenta poderosa para visualização de dados e criação de relatórios interativos. A análise tem como objetivo fornecer insights detalhados a partir de dados brutos e facilitar a tomada de decisões com base em informações visuais e fáceis de interpretar.
 
-📊 Objetivo do Projeto
-O propósito desta análise é transformar dados complexos em gráficos e visualizações intuitivas que permitam a compreensão rápida e eficiente de tendências, padrões e insights importantes. A análise pode abranger áreas como:
-•	Desempenho de vendas
-•	Análise de clientes
-•	Acompanhamento de métricas financeiras
-•	E outros tópicos específicos relacionados ao conjunto de dados utilizado
-
-
 🚀 Funcionalidades
 
 • Dashboards interativos: Navegue no mapa para visualizar gráficos e tabelas interativos.

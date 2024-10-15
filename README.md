@@ -17,6 +17,12 @@ O propósito desta análise é transformar dados complexos em gráficos e visual
 •	Relatórios detalhados: Acesse relatórios que detalham as informações mais importantes para a análise de dados.
 •	Insights automáticos: O Power BI gera insights automáticos sobre tendências, variações e anomalias nos dados.
 
+🛠️ Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
+
+•	Power BI Desktop: Ferramenta principal utilizada para a análise de dados, visualizações e criação de dashboards interativos.
+•	Excel/CSV : Fontes de dados externas arregadas para o Power BI
+
 
 🛠️ Como Funciona
 
